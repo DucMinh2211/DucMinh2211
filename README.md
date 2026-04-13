@@ -39,7 +39,7 @@
    - **Tech:** ESP32-S3, ESP-IDF, FreeRTOS.
    - **Highlights:** Optimized task scheduling using Semaphores, Queues, and Event Groups for real-time responsiveness.
 
-   #### ♟️ [Chess AI Intro](https://github.com/DucMinh2211/chess-ai-intro_252) (AI/Logic)
+   #### ♟️ [Chess AI Intro](https://github.com/DucMinh2211/chess_ai_intro-252) (AI/Logic)
    *Deep dive into game trees and bitboard state representation.*
    - **Tech:** C++, Bitboards, Minimax with Alpha-Beta Pruning.
 
