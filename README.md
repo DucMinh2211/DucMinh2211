@@ -55,9 +55,9 @@
 
    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DucMinh2211&theme=tokyonight)
    
-   ![DucMinh2211's GitHub stats](https://github-readme-stats.vercel.app/api?username=DucMinh2211)
+   ![DucMinh2211's GitHub stats](https://github-readme-stats.vercel.app/api?username=DucMinh2211&show_icons=true&theme=tokyonight)
    
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DucMinh2211)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DucMinh2211&show_icons=true&theme=tokyonight)
 
    ---
 
