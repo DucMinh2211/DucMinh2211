@@ -46,7 +46,7 @@
    ---
    
    ### Coding Stats
-
+   ![LeetCode Cards](https://leetcode-badge-showcase.vercel.app/api?username=0GSlay0&theme=tokyonight&border=border&animated=true)
    ![LeetCode Stats](https://leetcard.jacoblin.cool/0GSlay0?theme=catppuccinMocha&font=JetBrains%20Mono&ext=activity)
    
    ---
@@ -54,9 +54,7 @@
    ### 📊 GitHub Activity
 
    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DucMinh2211&theme=tokyonight)
-   
    ![DucMinh2211's GitHub stats](https://github-readme-stats.vercel.app/api?username=DucMinh2211&show_icons=true&theme=tokyonight)
-   
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DucMinh2211&show_icons=true&theme=tokyonight)
 
    ---
