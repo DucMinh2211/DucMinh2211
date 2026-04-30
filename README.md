@@ -44,6 +44,12 @@
    - **Tech:** C++, Bitboards, Minimax with Alpha-Beta Pruning.
 
    ---
+   
+   ### Coding Stats
+
+   ![LeetCode Stats](https://leetcard.jacoblin.cool/0GSlay0?theme=catppuccinMocha&font=JetBrains%20Mono&ext=activity)
+   
+   ---
 
    ### 📊 GitHub Activity
 
